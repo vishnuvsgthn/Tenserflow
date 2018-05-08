@@ -1,2 +1,2 @@
 # Tenserflow
-Codes for different architectures in tensorflow
+Codes for different deep neural network  architectures in tensorflow
